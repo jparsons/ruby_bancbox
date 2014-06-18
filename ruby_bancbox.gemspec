@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = RubyBancbox::VERSION
   spec.authors       = ["John Parsons"]
   spec.email         = ["jparsons@klondikefive.com"]
-  spec.summary       = %q{Implements an interface with the Bancbox API}
-  spec.description   = %q{Implements an interface with the Bancbox API}
-  spec.homepage      = ""
+  spec.summary       = %q{Implements an interface with the Bancbox Invest API}
+  spec.description   = %q{Implements an interface with the Bancbox Invest API}
+  spec.homepage      = 'http://rubygems.org/gems/ruby_bancbox'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
